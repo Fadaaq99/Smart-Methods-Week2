@@ -16,6 +16,6 @@ Hint*>> If we couldn't select it we try to connect the ESP32 again to the comput
 12/ If we want to check the device that is not suspended 
 14/ Back to Arduino IDE we go to "File" and select "Examples"
 15/ After that in Examples list we select "Basic" then "Blink"
-16/ We see that the ESP32 device linked with LED LIGHT to check that is not suspended on the Blink code 
+16/ We see that the ESP32 device linked with LED LIGHT to check that is not suspended on the Blink code  
 17/ We can manipulate the speed of LED Light code whether you want it fast or slow signal
 18/ Last but not least, We select on upload icon to execute the code on The ESP32 device 
