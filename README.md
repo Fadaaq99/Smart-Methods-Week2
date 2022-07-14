@@ -1,5 +1,6 @@
 # Smart-Methods-Week2
 ESP32 Algorithms:
+
 1/ Install Arduino App from the Link "https://www.arduino.cc/en/software"
 
 2/ Arduino IDE We click on "File" then "Preferences" 
